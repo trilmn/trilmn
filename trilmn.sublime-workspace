@@ -1,0 +1,416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"blue",
+				"at-bg-blue-lighten-3"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"spacing-",
+				"spacing-large"
+			],
+			[
+				"gre",
+				"grey-dark-20"
+			],
+			[
+				"spacing",
+				"spacing-small"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ge",
+				"grey-light-40"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"grey",
+				"grey-light-80"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/pages/index.js",
+			"settings":
+			{
+				"buffer_size": 1198,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 128.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Data/Works/Tri/code/trilmn",
+		"/Volumes/Data/Works/Tri/code/trilmn/src",
+		"/Volumes/Data/Works/Tri/code/trilmn/src/pages"
+	],
+	"file_history":
+	[
+		"/Users/tringuyen/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/tringuyen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tringuyen/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tringuyen/Library/Application Support/Sublime Text 3/Packages/auto_close/Default (OSX).sublime-keymap",
+		"/Users/tringuyen/Dropbox (Personal)/Works/trilmn/code/trilmn/gatsby-config.js",
+		"/Users/tringuyen/Dropbox (Personal)/Works/trilmn/code/trilmn/src/components/header.js",
+		"/Users/tringuyen/Dropbox (Personal)/Works/trilmn/code/trilmn/src/components/seo.js",
+		"/Users/tringuyen/Dropbox (Personal)/Works/trilmn/code/trilmn/src/pages/index.js",
+		"/Users/tringuyen/Dropbox (Personal)/Works/trilmn/code/trilmn/src/components/layout.js",
+		"/Users/tringuyen/Dropbox (Personal)/Works/trilmn/code/trilmn/src/components/footer.js",
+		"/Users/tringuyen/Dropbox (Personal)/Works/trilmn/code/trilmn/README.md",
+		"/Users/tringuyen/Dropbox (Personal)/Works/trilmn/code/trilmn/.gitignore",
+		"/Users/tringuyen/Dropbox (Personal)/Works/trilmn/code/trilmn/gitignore.txt",
+		"/Users/tringuyen/Dropbox (Personal)/Works/Anduin/Code/ACL1/acl1-1.0.10-Jekyll/package.json",
+		"/Users/tringuyen/Dropbox (Personal)/Works/Anduin/Code/ACL1/acl1-1.0.10-Jekyll/wiki/release.md",
+		"/Users/tringuyen/Dropbox (Personal)/Works/Anduin/Code/ACL1/acl1-1.0.10-Jekyll/wiki/overcommit.md",
+		"/Users/tringuyen/Dropbox (Personal)/Works/Anduin/Code/ACL1/acl1-1.0.10-Jekyll/wiki/grunt.md",
+		"/Users/tringuyen/Dropbox (Personal)/Works/Anduin/Code/ACL1/acl1-1.0.10-Jekyll/wiki/cleaning-svg.md",
+		"/Users/tringuyen/Dropbox (Personal)/Works/Anduin/Code/ACL1/acl1-1.0.10-Jekyll/wiki/update-icon-font.md",
+		"/Users/tringuyen/Dropbox (Personal)/Works/Anduin/Code/ACL1/acl1-1.0.10-Jekyll/wiki/update-svg-icon.md",
+		"/Volumes/Data/Anduin/anduin-design/content/introduction.md",
+		"/Volumes/Data/Anduin/anduin-design/style/acl2.0/component/form/_common.scss",
+		"/Volumes/Data/Anduin/anduin-design/style/acl2.0/base/_reset.scss",
+		"/Volumes/Data/Anduin/anduin-design/style/acl2.0/component/_menu.scss",
+		"/Volumes/Data/Anduin/anduin-design/style/acl2.0/component/_button.scss",
+		"/Volumes/Data/Anduin/anduin-design/gatsby-node.js",
+		"/Volumes/Data/Anduin/anduin-design/src/components/sidebar.js",
+		"/Volumes/Data/Anduin/anduin-design/style/acl2.0/acl.scss",
+		"/Volumes/Data/Anduin/anduin-design/content/component/button.md",
+		"/Volumes/Data/Anduin/anduin-design/content/component/badge.md",
+		"/Volumes/Data/Anduin/anduin-design/src/templates/doc-page.js",
+		"/Users/tringuyen/Dropbox (Personal)/Works/Anduin/Code/ACL1/acl1-1.0.10-Jekyll/README.md",
+		"/Users/tringuyen/Library/Application Support/Steam/steamapps/common/Shadow Tactics/MiVersion",
+		"/Volumes/GoogleDrive/My Drive/Anduin Design Team/mockups/acl/version-2/released/2.0/dependency/README.txt",
+		"/Users/tringuyen/Dropbox (Personal)/Private/anduinLocal/mockup-playground/Common Components/ACL2.0.library/metadata.json",
+		"/Volumes/Sketch 49 1/Extra/tnt.nfo",
+		"/Volumes/Sketch 49 1/Extra/rhash",
+		"/Volumes/Sketch 49 1/Extra/tnt.sfv",
+		"/Volumes/Data/Anduin/numenor/wikis/local-config.md",
+		"/Volumes/Data/Anduin/numenor/local/local.conf",
+		"/Volumes/Data/Anduin/numenor/numenor/api/src/main/resources/application.conf",
+		"/Volumes/Data/Anduin/anduin-design/style/acl2.0/_link.scss",
+		"/Volumes/Data/Anduin/anduin-design/style/main.scss",
+		"/Volumes/Data/Anduin/anduin-design/src/layouts/index.js",
+		"/Volumes/Data/Anduin/anduin-design/style/acl2.0/_reset.scss",
+		"/Volumes/Data/Anduin/anduin-design/content/design/typography.md",
+		"/Volumes/Data/Anduin/anduin-design/style/acl2.0/_skins.scss",
+		"/Volumes/Data/Anduin/anduin-design/content/dev-wiki/markdown-doc-template.md",
+		"/Volumes/Data/Anduin/anduin-design/style/vendor/prism-darcula.css",
+		"/Users/tringuyen/Downloads/cfg/autoexec.cfg",
+		"/Users/tringuyen/Downloads/cfg/game.cfg",
+		"/Volumes/Data/Anduin/anduin-design/.editorconfig",
+		"/Volumes/Data/Anduin/anduin-design/gatsby-config.js",
+		"/Volumes/Data/Anduin/anduin-design/src/pages/index.js",
+		"/Volumes/Data/Anduin/anduin-design/.gitignore",
+		"/Volumes/Data/Anduin/anduin-design/README.md",
+		"/System/Library/Extensions/CodecCommander.kext/Contents/Info.plist",
+		"/Volumes/EFI/EFI/CLOVER/config.plist",
+		"/Volumes/EFI/EFI/CLOVER/kexts/10.12/aDummyHDA.kext/Contents/Info.plist",
+		"/Users/tringuyen/Desktop/MironeAudio/10ec0900/276.26/Clover/config.plist",
+		"/System/Library/Extensions/VoodooHDA.kext/Contents/Info.plist",
+		"/Users/tringuyen/Downloads/CodecCommander.kext/Contents/Info.plist",
+		"/Users/tringuyen/Desktop/OSX-hax-tools/Info.plist",
+		"/Users/tringuyen/Downloads/VoodooHDA.kext/Contents/Info.plist",
+		"/Volumes/EFI/EFI/CLOVER/ACPI/patched/SSDT-i5-6600K.aml",
+		"/Users/tringuyen/Downloads/config-audio_cloverALC-100series.plist",
+		"/Volumes/EFI/EFI/CLOVER/kexts/10.12/VoodooHDA.kext/Contents/Info.plist",
+		"/Volumes/EFI 1/EFI/CLOVER/kexts/10.12/VoodooHDA.kext/Contents/Info.plist",
+		"/Library/Extensions/VoodooHDA.kext/Contents/Info.plist",
+		"/Users/tringuyen/Desktop/VoodooHDA.kext/Contents/Info.plist",
+		"/Users/tringuyen/Desktop/OSX-hax-tools/ALC1150/VoodooHDA-Method-better/VoodooHDA.kext/Contents/Info.plist",
+		"/Volumes/EFI/EFI/CLOVER/kexts/10.12/VoodooHDA.prefPane/Contents/Info.plist",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Gondor/cluster.ini",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Rohan/Master/server.ini",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Rohan/cluster.ini",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Neverland/cluster.ini",
+		"/Users/tringuyen/Library/Application Support/Steam/steamapps/common/Don't Starve Together Dedicated Server/dontstarve_dedicated_server_nullrenderer.app/Contents/mods/dedicated_server_mods_setup.lua",
+		"/Users/tringuyen/Dropbox (Personal)/DST/Pixelpushers-dropbox/run_dedicated_servers-tri-home.sh",
+		"/Users/tringuyen/Dropbox (Personal)/DST/Pixelpushers-dropbox/Master/server.ini",
+		"/Users/tringuyen/Dropbox (Personal)/DST/Pixelpushers-dropbox/cluster.ini",
+		"/Users/tringuyen/Dropbox (Personal)/DST/run_dedicated_servers-tri-office.sh",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Pixelpushers/run_dedicated_servers-tri-home.sh",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Pixelpushers/mods/dedicated_server_mods_setup.lua",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Pixelpushers/Master/modoverrides.lua",
+		"/Users/tringuyen/Library/Application Support/Steam/steamapps/common/Don't Starve Together Dedicated Server/dontstarve_dedicated_server_nullrenderer.app/Contents/mods/modsettings.lua",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Pixelpushers/Caves/modoverrides.lua",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Pixelpushers/mods/modsettings.lua",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Cluster_1/Master/modoverrides.lua",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Cluster_1/cluster.ini",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Anduinees/Master/server.ini",
+		"/Users/tringuyen/Library/Application Support/Steam/steamapps/common/Don't Starve Together/dontstarve_steam.app/Contents/mods/modsettings.lua",
+		"/Users/tringuyen/Library/Application Support/Steam/steamapps/common/Don't Starve Together/dontstarve_steam.app/Contents/mods/dedicated_server_mods_setup.lua",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Anduinees/Master/modoverrides.lua",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Anduinees/Caves/worldgenoverride.lua",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Anduinees/run_dedicated_servers-tri-home.sh",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Anduinees/Caves/modoverrides.lua",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Cluster_1/Master/leveldataoverride.lua",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Anduinees/cluster.ini",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Anduinees/mods/dedicated_server_mods_setup.lua",
+		"/Users/tringuyen/Documents/Klei/DoNotStarveTogether/Anduinees/mods/modsettings.lua",
+		"/Users/tringuyen/Library/Application Support/Steam/steamapps/common/Don't Starve Together Dedicated Server/dontstarve_dedicated_server_nullrenderer.app/Contents/mods/workshop-378160973/modinfo.lua",
+		"/Users/tringuyen/Library/Application Support/Steam/steamapps/common/Don't Starve Together Dedicated Server/dontstarve_dedicated_server_nullrenderer.app/Contents/mods/workshop-362175979/modinfo.lua",
+		"/Users/tringuyen/Library/Application Support/Steam/steamapps/common/Don't Starve Together Dedicated Server/dontstarve_dedicated_server_nullrenderer.app/Contents/mods/workshop-345692228/modinfo.lua",
+		"/Users/tringuyen/Library/Application Support/Steam/steamapps/common/Don't Starve Together Dedicated Server/dontstarve_dedicated_server_nullrenderer.app/Contents/mods/workshop-351325790/modinfo.lua",
+		"/Users/tringuyen/Library/Application Support/Steam/steamapps/common/Don't Starve Together Dedicated Server/dontstarve_dedicated_server_nullrenderer.app/Contents/mods/workshop-836583293/modinfo.lua",
+		"/Users/tringuyen/Library/Application Support/Steam/steamapps/common/Don't Starve Together Dedicated Server/dontstarve_dedicated_server_nullrenderer.app/Contents/mods/workshop-956206484/modinfo.lua",
+		"/Users/tringuyen/run_dedicated_servers.sh",
+		"/Volumes/Data/Anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/_turn.scss",
+		"/Volumes/Data/Anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/acl-1.0.10/utils/_variables.scss",
+		"/Volumes/Data/Anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/_standalone.scss",
+		"/Volumes/Data/Anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/vendors/acl-1.0.10/utils/_utils.scss",
+		"/Volumes/Data/Anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/components/datepicker/_datepicker.scss",
+		"/Volumes/Data/Anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/acl-fix/_form.scss",
+		"/Volumes/Data/Anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/modules/negotiation-doc/_all-versions-dialog.scss",
+		"/Volumes/Data/Anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/modules/negotiation-doc/_event-message-dialog.scss",
+		"/Volumes/Data/Anduin/stargazer/gondor/webResources/src/main/assets/stylesheets/acl-fix/_utils.scss",
+		"/Volumes/Data/Anduin/stargazer/stargazer/webResources/src/main/assets/stylesheets/components/_turn.scss",
+		"/Volumes/Data/Anduin/stargazer/stargazer/webResources/src/main/assets/stylesheets/modules/negotiation-doc/_term-sheet.scss",
+		"/Volumes/Data/Anduin/stargazer/stargazer/webResources/src/main/assets/stylesheets/modules/negotiation-doc/_negotiation-doc.scss",
+		"/Volumes/Data/Anduin/stargazer/stargazer/webResources/src/main/assets/stylesheets/acl-fix/_modal.scss",
+		"/Volumes/Data/Anduin/stargazer/stargazer/webResources/src/main/assets/stylesheets/components/_task-priority-icon.scss",
+		"/Volumes/Data/Anduin/stargazer/stargazer/webResources/src/main/assets/stylesheets/pages/multi-trxn-dashboard/_trxn-action-data.scss",
+		"/Volumes/Data/Anduin/stargazer/stargazer/webResources/src/main/assets/stylesheets/modules/stage/termSheet/_preliminary-terms-dialogs.scss",
+		"/Users/tringuyen/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/tringuyen/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/tringuyen/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Volumes/Data/Anduin/stargazer/stargazer/webResources/src/main/assets/stylesheets/modules/negotiation-doc/_add-draft-dialog.scss",
+		"/Volumes/Data/Anduin/stargazer/stargazer/webResources/src/main/assets/stylesheets/components/side-bar/_side-bar.scss"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/pages/index.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1006,
+								1142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trilmn.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
