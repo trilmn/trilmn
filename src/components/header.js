@@ -3,21 +3,17 @@ import PropTypes from "prop-types"
 import React from "react"
 
 const Header = ({ siteTitle }) => (
-  <header
-  >
-    <div
-    >
-      <h1 style={{ margin: 0 }}>
+  <header>
+    <div>
         <Link
           to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
         >
-          {siteTitle}
+          <img src= "header-avatar.png" alt="Logo"/>
+          <h1>
+            {siteTitle}
+          </h1>
+          <span>tri@trilmn.com</span>
         </Link>
-      </h1>
     </div>
   </header>
 )
