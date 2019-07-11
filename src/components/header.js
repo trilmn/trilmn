@@ -4,15 +4,13 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <header>
-    <div>
-      <Link to="/">
-        <img src= {'logo.png'} alt="Logo"/>
-        <h1>
-          {siteTitle}
-        </h1>
-        <span>tri@trilmn.com</span>
-      </Link>
-    </div>
+    <Link to="/">
+      <img src= {'logo.png'} alt="Logo"/>
+      <h1>
+        {siteTitle}
+      </h1>
+      <span>tri@trilmn.com</span>
+    </Link>
   </header>
 )
 
