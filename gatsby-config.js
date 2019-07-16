@@ -5,8 +5,6 @@ module.exports = {
     author: `Tri Nguyen`,
   },
   plugins: [
-    'gatsby-plugin-tailwindcss',
-    'gatsby-plugin-emotion',
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
@@ -20,6 +18,13 @@ module.exports = {
         icon: `src/images/favicon.png`, // This path is relative to the root of the site.
       },
     },
-    'gatsby-plugin-offline',
+    `gatsby-plugin-postcss`,
+    {
+      resolve: "gatsby-plugin-purgecss",
+      options: {
+        tailwind: true,
+        purgeOnly: ["src/styles/main.css"]
+      }
+    }
   ],
 }

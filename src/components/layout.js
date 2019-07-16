@@ -1,13 +1,12 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import {css} from 'emotion'
 import { StaticQuery, graphql } from 'gatsby'
 
 import Header from './header'
 import Footer from "./footer"
 
-const style = {
-  content: css(tw`font-sans px-32 py-8 max-w-md mx-auto leading-normal`)
+const styles = {
+  container: `text-black font-sans px-32 py-8 max-w-md mx-auto leading-normal`
 }
 
 const Layout = ({ children }) => (
@@ -22,7 +21,7 @@ const Layout = ({ children }) => (
       }
     `}
     render={data => (
-      <div className={style.content}>
+      <div className={styles.container}>
         <Header siteTitle={data.site.siteMetadata.title} />
         {children}
         <Footer />
