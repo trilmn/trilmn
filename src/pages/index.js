@@ -8,8 +8,8 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Tri Nguyen - Product Designer" author=""/>
     <hgroup className="pt-6 mb-16 px-4">
-    <h2>A designer who loves solving problem</h2>
-    <h3 className="mt-2">I’ve been designing software interfaces, coding HTML/CSS/JS since 2009. I also like co-building great working culture and mentoring young designers.</h3>
+	    <h2>A designer who loves solving problem</h2>
+	    <h3 className="mt-2">I’ve been designing software interfaces, coding HTML/CSS/JS since 2009. I also like co-building great working culture and mentoring young designers.</h3>
     </hgroup>
     
     <h5 className="pl-4 pr-4 section-title text-gray-500 text-sm uppercase font-medium tracking-widest mb-8 block relative">

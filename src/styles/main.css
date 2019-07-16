@@ -49,6 +49,13 @@ h3 {
  * @import "components/forms";
  */
 
+.case-wrapper {
+	padding: 0 theme('spacing.4');
+}
+ .case-wrapper > p {
+ 		margin-top: theme('spacing.4');
+ }
+
 .section-title:after {
 	content: '';
   width: calc(100% - 40px);
