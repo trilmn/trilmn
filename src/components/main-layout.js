@@ -6,7 +6,7 @@ import Header from './header'
 import Footer from "./footer"
 
 const styles = {
-  container: `text-black font-sans px-32 py-8 max-w-md mx-auto leading-normal`
+  container: `text-gray-800 font-sans md:px-32 py-8 md:max-w-4xl md:mx-auto leading-normal subpixel-antialiased`
 }
 
 const Layout = ({ children }) => (
