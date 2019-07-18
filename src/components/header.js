@@ -15,13 +15,13 @@ const Header = ({ siteTitle }) => (
     </Link> 
     <ul className="flex items-center">
       <li className="lg:mr-6 mr-4">
-        <a href="/" className="block transition-fast hover:opacity-50"><img src= "/icon/dribbble.svg" alt="Icon Dribbble" className=""/></a>
+        <a href="https://dribbble.com/minhtri247" title="View my dribbble shots →" target="_blank" className="block transition-fast hover:opacity-50"><img src= "/icon/dribbble.svg" alt="Icon Dribbble" className=""/></a>
       </li>
       <li className="lg:mr-6 mr-4">
-        <a href="/" className="block transition-fast hover:opacity-50"><img src= "/icon/github.svg" alt="Icon Github" className=""/></a>
+        <a href="https://github.com/trilmn" title="Go to my github profile →" target="_blank" className="block transition-fast hover:opacity-50"><img src= "/icon/github.svg" alt="Icon Github" className=""/></a>
       </li>
       <li>
-        <a href="/" className="block transition-fast hover:opacity-50"><img src= "/icon/linkedin.svg" alt="Icon Linked" className=""/></a>
+        <a href="https://www.linkedin.com/in/tringuyen247/" title="Go to my Linkedin →" target="_blank" className="block transition-fast hover:opacity-50"><img src= "/icon/linkedin.svg" alt="Icon Linked" className=""/></a>
       </li>
     </ul>
   </header>

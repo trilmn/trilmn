@@ -77,7 +77,7 @@ h3 {
   bottom: -8px;
   position: absolute;
   z-index: 1;
-  transition: all 0.1s ease-out;
+  transition: all .2s ease-out;
 }
 
 .case-title:after {
@@ -85,14 +85,15 @@ h3 {
   height: 0.25rem;
   display: block;
   content: '';
-  background-color: theme('colors.blue.100');
+  background-color: theme('colors.gray.300');
   margin-top: theme('margin.1');
   position: absolute;
   z-index: -1;
-  transition: all 0.1s ease-out;
+  transition: all .2s ease-out;
 }
 
 .case-block:hover > .case-title:after{
+	background-color: theme('colors.blue.100');
 	transform: scale(40);
 }
 

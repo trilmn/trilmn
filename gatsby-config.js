@@ -19,12 +19,15 @@ module.exports = {
       },
     },
     `gatsby-plugin-postcss`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     {
       resolve: "gatsby-plugin-purgecss",
       options: {
         tailwind: true,
         purgeOnly: ["src/styles/main.css"]
       }
-    }
+    },
+    `gatsby-plugin-offline`,
   ],
 }

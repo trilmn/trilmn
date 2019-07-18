@@ -3,7 +3,8 @@ module.exports = {
     extend: {},
   },
   variants: {
-  	opacity: ['responsive', 'hover', 'focus']
+  	opacity: ['responsive', 'hover', 'focus'],
+  	shadow: ['responsive', 'hover', 'focus']
   },
   plugins: []
 }
