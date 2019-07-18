@@ -9,7 +9,7 @@ import CaseItem from '../../templates/case-item'
 
 export default () => (
   <Layout>
-  	<SEO title="Case Study: Venture Deal - Tri Nguyen" author=""/>
+  	<SEO title="Design Leadership - Tri Nguyen" author=""/>
   	<div className="case-wrapper">
 	    <hgroup className="pt-2 mb-5">
 		    <h2>Design Leadership</h2>
