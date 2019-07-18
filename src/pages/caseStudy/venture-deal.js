@@ -5,6 +5,7 @@ import Layout from "../../components/main-layout"
 import Divider from "../../components/divider"
 import SectionTitle from "../../components/section-title"
 import Figure from "../../components/figure"
+import CaseItem from '../../templates/case-item'
 
 import DdSummary from "../../images/deal-docs/summary.png"
 import DdProgress from "../../images/deal-docs/progress.png"
@@ -169,7 +170,28 @@ export default () => (
 			<p>Working in an early stage startup is a great experience. It keeps pushing me to stretch my limitation.</p>
 			<p>I’ve learnt a lot over 4 years, from learning how complex the Venture world is, dealing with user feedback shortage, growing design team, creating design system, shipping my designs through iterations, balancing mvp with business need to design product landing page and even making namecard…</p>
 			<p>Sometimes wearing multiple hats is not bad, it helps you understand yourself better and know what you can do best. Every situation is a chance to learn.</p>
-
 		</div>
+
+		<h5 className="mt-16 pl-4 pr-4 section-title text-gray-500 text-sm uppercase font-normal tracking-widest mb-8 block relative">
+    	<span className="bg-white pr-4 inline-block">Read more</span>
+  	</h5>
+
+		<ul className="list-case-study clearfix mt-4">
+			<CaseItem
+				caseTitle="ACL"
+				caseDesc="Initiate the design system of an enterprise platform"
+				link="/caseStudy/acl/"
+			></CaseItem>
+			<CaseItem
+				caseTitle="Communication design"
+				caseDesc="Help delivering product & branding through marketing materials"
+				link="/caseStudy/communication-design/"
+			></CaseItem>
+			<CaseItem
+				caseTitle="Design Leadership"
+				caseDesc="Coach and help teammate to maximize their producitivy"
+				link="/caseStudy/design-leadership/"
+			></CaseItem>
+		</ul>
   </Layout>
 )
