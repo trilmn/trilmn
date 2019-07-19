@@ -14,7 +14,7 @@ const IndexPage = () => (
     </hgroup>
 		
 		<div className="desperating-callout m-4 p-4 mt-10 border rounded">
-			<h4 className="font-bold">I'm looking for a new full-time opportunity!</h4>
+			<h4 className="font-bold">I'm looking for a new opportunity!</h4>
 	    <p className="mt-1">Assuming you don't know me so well, i hope through this website, you will know me better and it opens a chance for us to discuss about our next cooporation.</p>
     </div>
     

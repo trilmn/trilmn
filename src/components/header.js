@@ -10,7 +10,7 @@ const Header = ({ siteTitle }) => (
         <h1 className="text-base font-bold">
           {siteTitle}
         </h1>
-        <span className="text-sm text-gray-600">tri@trilmn.com</span>
+        <span className="text-sm text-gray-600">minhtri247@gmail.com</span>
       </div>
     </Link> 
     <ul className="flex items-center">
