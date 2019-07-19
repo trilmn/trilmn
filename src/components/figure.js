@@ -16,18 +16,19 @@ const Figure = ({
 	      image={{
 	        src: `${linkImg}`,
 	        alt: `${altImg}`,
-	        className: 'border border-solid border-gray-200 hover:shadow-lg',
+	        className: 'border border-solid border-gray-200 hover:shadow-lg'
 	      }}
-	      zommImage={{
+	      zoomImage={{
 	        src: `${linkZoomImg}`,
-	        alt: `${altZoomImg}`,
-	        className: 'border border-solid border-gray-200 hover:shadow-lg',
+	        alt: `${altZoomImg}`
 	      }}
 	      defaultStyles = {{
 					overlay: {
 						backgroundColor: 'rgba(8,35,61,.75)'
 					}
 	      }}
+	      shouldReplaceImage = {false}
+	      shouldRespectMaxDimension = {true}
      />
 		<div className="mt-2 figure-desc text-xs text-gray-600">{desc}</div>
 	</figure>

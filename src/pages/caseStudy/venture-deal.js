@@ -23,6 +23,9 @@ import EmailRevamping from "../../images/email-revamp/email-revamping.png"
 import EmailTrackingList from "../../images/email-revamp/email-tracking-list.png"
 import EmailBoilerplate from "../../images/email-revamp/email-design-boilerplate.png"
 
+import GitHubConTrib from "../../images/tri-github-contribution-over-years.gif"
+
+
 export default () => (
   <Layout>
   	<SEO title="Case Study: Venture Deal - Tri Nguyen" author=""/>
@@ -46,7 +49,7 @@ export default () => (
 			
 			<p>Over 4 years, i’ve involved in different aspects of the product, from ideation to iteration:</p>
 
-			<ul className="list-disc ml-5">
+			<ul className="list-disc ml-6">
 				<li>Whiteboarding/Wireframing ideas to create Feature MVP.</li>
 				<li>Creating mockups and click-through prototypes, of course.</li>
 				<li>Building design styleguides and color scheme to elevate the look&feel.</li>
@@ -60,7 +63,7 @@ export default () => (
 			<SectionTitle>1. Negotiation module</SectionTitle>
 			<p>Negotiation module is one of the core features of the platform. Negotiation process is a crucial part of a deal where people will make sure everybody agrees on the same thing. Lots of legal document will be involved in this part. Negotiation module is created to help people in the deal know:</p>
 			
-			<ul className="list-disc ml-5 mt-4">
+			<ul className="list-disc ml-6 mt-4">
 				<li>What document is being discussed, to which version.</li>
 				<li>Which side needs to preview and provide a revised version.</li>
 				<li>When a document type is ready to sign.</li>
@@ -138,7 +141,7 @@ export default () => (
 			<SectionTitle>3. Email templates revamp</SectionTitle>
 			<p>One of my other challenge at Anduin was to revamp and define scalable design solution for our email send out to users. Product team think the revamping was just a low-hanging fruit, but turns out it a ton of works. What i helped was:</p>
 			
-			<ul className="list-disc mt-4 ml-5">
+			<ul className="list-disc mt-4 ml-6">
 				<li>Find out actual problem of the current email template's design.</li>
 				<li>Define design principles for the new email template.</li>
 				<li>Wireframing them and get product agrees on.</li>
@@ -164,6 +167,16 @@ export default () => (
       	className = "w-2/4 p-4"
       ></Figure>
 		</div>
+
+		<div className="case-wrapper">
+			<SectionTitle>What about coding?</SectionTitle>
+			<p>Below is my Github contributions to main codebase over the years:</p>
+		
+			<Figure
+      	linkImg = {GitHubConTrib}
+      	className = "mt-4"
+      ></Figure>
+		</div>
 			
 		<div className="case-wrapper">
 			<SectionTitle>Conclusions</SectionTitle>
@@ -183,9 +196,9 @@ export default () => (
 				link="/caseStudy/acl/"
 			></CaseItem>
 			<CaseItem
-				caseTitle="Communication design"
+				caseTitle="Visual design"
 				caseDesc="Help delivering product & branding through marketing materials"
-				link="/caseStudy/communication-design/"
+				link="/caseStudy/visual-design/"
 			></CaseItem>
 			<CaseItem
 				caseTitle="Design Leadership"
