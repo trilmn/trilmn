@@ -24,7 +24,7 @@ const Header = ({ siteTitle }) => (
         <a href="https://www.linkedin.com/in/tringuyen247/" title="Go to my Linkedin →" target="_blank" className="block transition-fast hover:opacity-50"><img src= "/icon/linkedin.svg" alt="Icon Linked" className=""/></a>
       </li>
     </ul>
-  </header>
+  </header> 
 )
 
 Header.propTypes = {

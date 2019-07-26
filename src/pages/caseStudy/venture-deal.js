@@ -22,9 +22,9 @@ import OntologyFundSub from "../../images/legal-tech/fundsub.png"
 import EmailRevamping from "../../images/email-revamp/email-revamping.png"
 import EmailTrackingList from "../../images/email-revamp/email-tracking-list.png"
 import EmailBoilerplate from "../../images/email-revamp/email-design-boilerplate.png"
+import EmailArtboards from "../../images/email-revamp/email-artboard.png"
 
 import GitHubConTrib from "../../images/tri-github-contribution-over-years.gif"
-
 
 export default () => (
   <Layout>
@@ -150,7 +150,7 @@ export default () => (
 			</ul>
 		</div>
 
-		<div className="mb-4 flex flex-wrap">
+		<div className="flex flex-wrap">
 			<Figure
       	desc="My slides on analyzing the problem and proposed solutions to the team."
       	linkImg = {EmailRevamping}
@@ -168,6 +168,12 @@ export default () => (
       ></Figure>
 		</div>
 
+		<Figure
+      	desc="Artboards with the new boilerplate."
+      	linkImg = {EmailArtboards}
+      	className = "mb-4 p-4"
+    ></Figure>
+
 		<div className="case-wrapper">
 			<SectionTitle>What about coding?</SectionTitle>
 			<p>Below is my Github contributions to main codebase over the years:</p>
@@ -176,6 +182,8 @@ export default () => (
       	linkImg = {GitHubConTrib}
       	className = "mt-4"
       ></Figure>
+
+      <p>Over the first two years. Design team coded almost UI on ScalaJs-React. Once we have enough engineers, we let them handle the work.</p>
 		</div>
 			
 		<div className="case-wrapper">

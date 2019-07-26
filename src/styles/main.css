@@ -20,6 +20,15 @@ h3 {
   @apply text-2xl;
 }
 
+h4 {
+  @apply text-xl;
+}
+
+ol[class^='list-d'] > li,
+ul[class^='list-d'] > li {
+	margin-top: theme('spacing.2');
+}
+
 .transition-fast {
 	transition: all .2s ease-in-out;
 }

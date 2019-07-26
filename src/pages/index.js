@@ -2,7 +2,9 @@ import React from 'react'
 import { Link } from 'gatsby'
 import SEO from "../components/seo"
 import Layout from '../components/main-layout'
+import SectionDivider from '../components/section-divider'
 import CaseItem from '../templates/case-item'
+
 
 import LogoAnduin from "../images/logo/anduin.svg"
 
@@ -14,19 +16,17 @@ const IndexPage = () => (
     </hgroup>
 		
 		<div className="desperating-callout m-4 p-4 mt-10 border rounded">
-			<h4 className="font-bold">I'm looking for a new opportunity!</h4>
-	    <p className="mt-1">Assuming you don't know me so well, i hope through this website, you will know me better and it opens a chance for us to discuss about our next cooporation.</p>
+			<h4 className="font-bold">I'm looking for a new opportunity</h4>
+	    <p className="mt-1">Assuming you don't know me so well, i hope through this website, you will know me better and it opens a chance for us to discuss about our next cooporation. Let's talk!</p>
     </div>
     
-    <h5 className="mt-12 pl-4 pr-4 section-title text-gray-500 text-sm uppercase font-normal tracking-widest mb-8 block relative">
-    	<span className="bg-white pr-4 inline-block">Recent work</span>
-  	</h5>
+    <SectionDivider>Recent work</SectionDivider>
 
 		<div className="px-4">
 			<div className="flex items-center">
 				<a href="https://www.anduintransact.com" target="_blank" title="Visit Anduin Transactions" className="block avatar anduin bg-blue-400 w-12 h-12 flex items-center justify-center rounded mr-4 hover:opacity-75 transition-fast"><img src={LogoAnduin} alt="Logo Anduin"/></a>
 				<div>
-					<h4 className="font-bold uppercase flex items-center">Anduin Transactions</h4>
+					<h4 className="text-base font-bold uppercase flex items-center">Anduin Transactions</h4>
 					<span className="sub-text text-sm text-gray-600 mt-16">Jan 2015 - Jul 2019, 4.5 years</span>
 				</div>
 			</div>
@@ -57,6 +57,8 @@ const IndexPage = () => (
 				link="/caseStudy/design-leadership/"
 			></CaseItem>
 		</ul>
+
+		<SectionDivider>Previously</SectionDivider>
 	</Layout>
 )
 

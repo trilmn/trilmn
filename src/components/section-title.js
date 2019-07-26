@@ -5,7 +5,7 @@ const SectionTitle = ({
 	children,
 	marginTop
 }) => (
-	<h4 className={`text-lg font-bold ${marginTop}`}>{children}</h4>
+	<h3 className={`font-bold ${marginTop}`}>{children}</h3>
 )
 
 SectionTitle.propTypes = {
