@@ -35,7 +35,7 @@ export default () => (
 			<Figure
 		  	desc="Detail page of a specific hashtag."
 		  	linkImg = {ImgHashtagDetails}
-		  	className = ""
+		  	className = "mt-5"
 		  ></Figure>
 
 			<SectionTitle>Introduction</SectionTitle>
