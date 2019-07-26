@@ -9,7 +9,8 @@ const Footer = ({ siteTitle }) => (
 	  {` `}
 	  <a href="https://www.gatsbyjs.org" target="_blank" title="Visit Gatsby →" className="transition-fast underline hover:text-gray-800">Gatsby</a>
 	  {` `} & {` `}
-	  <a href="https://tailwindcss.com/" target="_blank" title="Visit Tailwind CSS →" className="transition-fast underline hover:text-gray-800">Tailwind CSS</a>.
+	  <a href="https://tailwindcss.com/" target="_blank" title="Visit Tailwind CSS →" className="transition-fast underline hover:text-gray-800">Tailwind CSS</a>
+	  . Powered by <a href="https://www.netlify.com/" target="_blank" title="Visit Netlify →" className="transition-fast underline hover:text-gray-800">Netlify</a>.
 	</footer>
 )
 
