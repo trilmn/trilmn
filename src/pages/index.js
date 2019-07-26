@@ -65,13 +65,13 @@ const IndexPage = () => (
 
 		<ul className="list-prev-jobs text-sm mx-4 relative">
 			<PrevJobItem
-				yearRange="2013 – 2015"
+				yearRange="2014 – 2015"
 				jobTitle="Product Designer"
 				companyName="iVIVU"
 				companyLink="https://www.ivivu.com/"
 			></PrevJobItem>
 			<PrevJobItem
-				yearRange="2012 – 2013"
+				yearRange="2012 – 2014"
 				jobTitle="Product Designer"
 				companyName="VNG Corporation"
 				companyLink="https://www.vng.com.vn/"
