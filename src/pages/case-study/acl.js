@@ -88,7 +88,7 @@ export default () => (
 			  	linkImg = {acl1SlackIntegration}
 			  	className = "w-1/3 p-4"
 			  ></Figure>
-		</div>
+			</div>
 
 		<div className="case-wrapper">
 			<SectionTitle marginTop="mt-10">Contributions</SectionTitle>

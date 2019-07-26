@@ -26,14 +26,15 @@ const IndexPage = () => (
 
 		<div className="px-4">
 			<div className="flex items-center">
-				<a href="https://www.anduintransact.com" target="_blank" title="Visit Anduin Transactions" className="block avatar anduin bg-blue-400 w-12 h-12 flex items-center justify-center rounded mr-4 hover:opacity-75 transition-fast"><img src={LogoAnduin} alt="Logo Anduin"/></a>
+				<div className="block avatar anduin bg-blue-400 w-12 h-12 flex items-center justify-center rounded mr-4 transition-fast"><img src={LogoAnduin} alt="Logo Anduin"/></div>
 				<div>
 					<h4 className="text-base font-bold uppercase flex items-center">Anduin Transactions</h4>
 					<span className="sub-text text-sm text-gray-600 mt-16">Jan 2015 - Jul 2019, 4.5 years, Product Design lead</span>
 				</div>
 			</div>
-			<p className="mt-5">I joined Anduin as the 4th member, the 1st designer. Beside cracking tough problem of <a href="https://www.investopedia.com/terms/v/venturecapital.asp" target="_blank" className="underline hover:text-blue-400 transition-fast" title="Read more about Venture Capital">Venture Capital world</a> through making mockups & crafting UI on <a href="https://www.scala-js.org/" target="_blank"  className="underline hover:text-blue-400 transition-fast" title="Read more about Scalajs">Scalajs</a>, I also helped setting up design system, design processes and growing the design team to 5 members. Check out my some of case studies below:
+			<p className="mt-5">I joined Anduin as the 4th member, the 1st designer. Beside cracking tough problem of <a href="https://www.investopedia.com/terms/v/venturecapital.asp" target="_blank" className="underline hover:text-blue-400 transition-fast" title="Read more about Venture Capital">Venture Capital world</a> through making mockups & crafting UI on <a href="https://www.scala-js.org/" target="_blank"  className="underline hover:text-blue-400 transition-fast" title="Read more about Scalajs">Scalajs</a>, I also helped setting up design system, design processes and growing the design team to 5 members.
 			</p>
+			<p className="mt-4">Check out my some of case studies below:</p>
 		</div>
 
 		{/* Links to case studies */}
