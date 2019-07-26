@@ -178,17 +178,17 @@ export default () => (
 			<CaseItem
 				caseTitle="Venture Deal"
 				caseDesc="Design & iterate on company’s key product for Venture world"
-				link="/caseStudy/venture-deal/"
+				link="/case-study/venture-deal/"
 			></CaseItem>
 			<CaseItem
 				caseTitle="Visual design"
 				caseDesc="Help delivering product & branding through marketing materials"
-				link="/caseStudy/visual-design/"
+				link="/case-study/visual-design/"
 			></CaseItem>
 			<CaseItem
 				caseTitle="Design Leadership"
 				caseDesc="Coach and help teammate to maximize their producitivy"
-				link="/caseStudy/design-leadership/"
+				link="/case-study/design-leadership/"
 			></CaseItem>
 		</ul>
 		

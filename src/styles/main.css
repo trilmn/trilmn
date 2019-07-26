@@ -111,6 +111,30 @@ ul[class^='list-d'] > li {
 	width: 100%;
 }
 
+@media (min-width: 768px) {
+	.list-prev-jobs:before {
+		content: '';
+		display: block;
+		width: 0px;
+		height: calc(100% - 20px);
+		border: 1px solid theme('colors.gray.200');
+		position: absolute;
+		top: theme('spacing.1');
+		left: theme('spacing.1');
+		z-index: -1;
+	}
+
+	.prev-job-item:before {
+		content: '';
+		display: inline-block;
+		width: 10px;
+		height: 10px;
+		background-color: theme('colors.white');
+		border: 2px solid theme('colors.gray.500');
+		border-radius: theme('borderRadius.full');
+		margin-right: theme('spacing.4');
+	}
+}
 
 /**
  * This injects all of Tailwind's utility classes, generated based on your

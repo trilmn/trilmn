@@ -62,7 +62,7 @@ export default () => (
     </div>
 
 		<div className="case-wrapper">
-			<p>I also a kind of guy who like to build great culture. I believe a great working culture will create the most effective work that no other tools can do. Read more about <a href="/caseStudy/design-leadership/" className="underline hover:text-blue-400 transition-fast" title="Read more on my design leadership">my design leadership at Anduin</a>. With my shaky visual skill, i helped:</p>
+			<p>I also a kind of guy who like to build great culture. I believe a great working culture will create the most effective work that no other tools can do. Read more about <a href="/case-study/design-leadership/" className="underline hover:text-blue-400 transition-fast" title="Read more on my design leadership">my design leadership at Anduin</a>. With my shaky visual skill, i helped:</p>
 			<ul className="list-disc ml-5 mt-4">
 				<li>Making t-shirt to make better internal engagement.</li>
 				<li>Series of Tshirt</li>
@@ -99,17 +99,17 @@ export default () => (
 			<CaseItem
 				caseTitle="Venture Deal"
 				caseDesc="Design & iterate on company’s key product for Venture world"
-				link="/caseStudy/venture-deal/"
+				link="/case-study/venture-deal/"
 			></CaseItem>
 			<CaseItem
 				caseTitle="ACL"
 				caseDesc="Initiate the design system of an enterprise platform"
-				link="/caseStudy/acl/"
+				link="/case-study/acl/"
 			></CaseItem>
 			<CaseItem
 				caseTitle="Design Leadership"
 				caseDesc="Coach and help teammate to maximize their producitivy"
-				link="/caseStudy/design-leadership/"
+				link="/case-study/design-leadership/"
 			></CaseItem>
 		</ul>
 	</Layout>

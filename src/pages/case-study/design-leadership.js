@@ -204,7 +204,7 @@ export default () => (
 			  	className = "w-1/3 mt-2"
 			  	></Figure>
 				  <div  className="w-2/3 pl-4 pt-2">
-				  	<div>Me to host an AMA about product design on Ereka, a quora-like platform.</div>
+				  	<div>Me hosted an AMA about product design on Ereka, a quora-like platform.</div>
 				  	<ExternalLink href="https://ereka.vn/session/29872515416495116" title="Visit my AMA">Link here</ExternalLink> - in Vietnamese, sorry
 				  </div>
 				</li>
@@ -214,7 +214,7 @@ export default () => (
 			  	className = "w-1/3 mt-2"
 			  	></Figure>
 				  <div  className="w-2/3 pl-4 pt-2">
-				  	Cong presenting about CSS Grid at <ExternalLink href="https://www.grokking.org/" title="Visit Grokking Engineering event">Grokking Engineer event</ExternalLink>
+				  	Cong's presenting CSS Grid at <ExternalLink href="https://www.grokking.org/" title="Visit Grokking Engineering event">Grokking Engineer event</ExternalLink>
 				  </div>
 				</li>
 			</ul>
@@ -248,17 +248,17 @@ export default () => (
 			<CaseItem
 				caseTitle="Venture Deal"
 				caseDesc="Design & iterate on company’s key product for Venture world"
-				link="/caseStudy/venture-deal/"
+				link="/case-study/venture-deal/"
 			></CaseItem>
 			<CaseItem
 				caseTitle="ACL"
 				caseDesc="Initiate the design system of an enterprise platform"
-				link="/caseStudy/acl/"
+				link="/case-study/acl/"
 			></CaseItem>
 			<CaseItem
 				caseTitle="Visual design"
 				caseDesc="Help delivering product & branding through marketing materials"
-				link="/caseStudy/visual-design/"
+				link="/case-study/visual-design/"
 			></CaseItem>
 		</ul>
 	</Layout>
