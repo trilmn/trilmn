@@ -75,12 +75,12 @@ export default () => (
 
 		<div className="mb-4 flex flex-wrap">
 		  <Figure
-		  	desc="A sci-fi-ed version of our logo in the early days. Our CEO loves sci-fi."
+		  	desc="A sci-fi version of our logo in the early days. Our CEO loves sci-fi."
 		  	linkImg = {anduinCircuit}
 		  	className = "w-4/4 p-4"
 		  ></Figure>
 			<Figure
-		    	desc="Rohan kingdom T-Shirt"
+		    	desc="Rohan kingdom T-Shirt drawing."
 		    	linkImg = {tshirtRohan}
 		    	className = "w-2/4 p-4"
 		   	 ></Figure>

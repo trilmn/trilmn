@@ -40,7 +40,7 @@ export default () => (
 	  </div>
 
     <div className="case-wrapper mt-10">
-    	<p>When working solo, it’s very easy to plan, to work, to evaluate, to make decision on everything. You know yourself and the work best. Working in a team, acting as a person in charge, you have to know strong and weak points of your teammate. You have to know what makes them happy and what’s not, what brings the most value out of their creative mind. Designer is a picky type of character.</p>
+    	<p>When working solo, it’s very easy to plan, to work, to evaluate, to make decision on everything. You know yourself and the work best. Working in a team, acting as a person in charge, you have to know strong and weak points of your teammates. You have to know what makes them happy and what’s not, what brings the most value out of their creative minds. Designer is a picky type of character.</p>
     	<p>Anduin needed more design leadership back then, so i got promoted.</p>
     	<p>My time at Anduin as a leader went through these organic steps:</p>
 			<ol className="list-decimal ml-6 mt-2">
@@ -52,7 +52,7 @@ export default () => (
 			<SectionTitle marginTop="mt-10">1. Scale up the team</SectionTitle>
 			<p>Company grows, work is multiplied. More works mean more team mate you’re gonna need. Switching from a solo designer, i have to plan on how to recruit new designers. This includes:</p>
 			<ul className="list-disc ml-6 mt-2">
-				<li>Prepare job description so that the new guys know what they should believe in. JD will also include company missions and team values.
+				<li>Prepare job description so that the new guys know what they will believe in. JD will also include company missions and team values.
 						<div className="mb-4 flex flex-wrap">
 				      <Figure
 				      	desc="Sample of a job description i wrote on the early days"
@@ -68,15 +68,15 @@ export default () => (
 				    </div>
 
 				</li>
-				<li>How to evaluate a candidate together is also important. When to say no, red flags,…For example: one of our big red flag is not being able to talk/describe deeply about your previous works. Thanks to <ExternalLink href="https://recruiterbox.com/" title="Visit RecruiterBox's website">RecruiterBox</ExternalLink> for making this process easy for interviewers. We put our evaluations there before gathering altogether into a room and discuss about a candidate.</li>
-				<li>With a limited pool of designers in Vietnam, it's a bit challenge to find qualified candidate. Most of them i have to do casual chat at a coffee shop 1 or 2 times before they agree to step into an interview.</li>
+				<li>How to evaluate a candidate together is also important. When to say no, red flags,…For example: one of our big red flag is not being able to talk/describe deeply about your previous works. Thanks to <ExternalLink href="https://recruiterbox.com/" title="Visit RecruiterBox's website">RecruiterBox</ExternalLink> for making this process easier for interviewers. We put our evaluations on RecruiterBox before gathering altogether into a room and discuss about a candidate.</li>
+				<li>With a limited pool of designers in Vietnam, it's a bit challenge to find qualified candidates. Most of them i have to do casual chat at a coffee shop 1 or 2 times before they agree to step into an interview.</li>
 			</ul>
-			<p>Hiring was never be an easy work, it takes practices to be better. Luckily, all interviews went quite well so far that even if interviewees did not pass, some of them all came back and said thanks me specifically for being clear and nice to them.</p>
+			<p>Hiring was never be an easy work, it takes practices to be better. Luckily, all interviews went quite well so far that even if interviewees did not pass, some of them all came back and said thanks to me specifically for being clear and nice to them.</p>
 
 			<SectionTitle>2. Manage & improve team performance</SectionTitle>
 			<p>Having a bunch of designers together doesn’t mean you will produce productive works right away. I had to think who can do what, who can help who (you as a leader will have to help everyone in your team including yourself already, of course), even who sit next to who so that they feel the most comfortable.</p>
 			
-			<p>Even from day one, they should feel like this is the workplace they will do their best.</p>
+			<p>Even from day one, they should feel like this is the workplace where they will do their best.</p>
 			
 			<div className="mb-4 flex flex-wrap justify-center">
 	      <Figure
@@ -86,27 +86,27 @@ export default () => (
 	      ></Figure>
       </div>
 			
-			<p>The ultimate goal is, over the time working in the team, they should learn something for themselves. The more they can learn, the better the team is.</p>
+			<p>The ultimate goal is, over the time working in the team, they will learn something for themselves. The more they can learn, the better the team is, and they become better also.</p>
 
-			<h4 className="font-bold mt-6">2.1 Define team values help nurturing team culture</h4>
-			<p>From my experience, i believe a good culture will maximize productivity. So, when i have a chance to build culture, i told myself: at least my team should have the best environment i can provide. So i was pursuing these values for Anduin design team:</p>
+			<h4 className="font-bold mt-6">2.1 Define team values helps nurturing team culture</h4>
+			<p>From my experience, i believe a good culture will maximize productivity. So, when i have a chance to build culture, i told myself: at the very least, my team should have the best environment to work in as long as i still be part of it. So i was pursuing these values for Anduin design team:</p>
 			<ul className="list-disc ml-6 mt-2">
-				<li><strong>Trust</strong>: Each team member should have trust on each other’s skill. Just like a sport team, people play in different positions and earn a total trust from their teammate for that position. Having trust, the feedbacks/ideas you received will be more correct and collaborative. Being a leader, you have to constantly improve yourself so that you know what to talk to each position in your team. I make sure each designer will have 1 big project/feature to work on. So that they don’t feel left out and have a belief that they can do something big and important.</li>
-				<li><strong>Fairness</strong>: When trusting each others, it’s easier to play fair in the team. If Ben trusts me, whenever i give improvement-needed critique to his design, he will take it gratefully and send me back his argument more honest. Once Leo sees this positive thing from me & Ben, he and Ben will do the same. This dominos effect does work nicely once you have trust in your team.</li>
-				<li><strong>Transparency</strong>: The information my teammate knows should be similar to mine. Consider myself as a connection dot between company and its employees, usually after every leadership council meeting (yea, we call the leads meeting like that Anduin) i always write a short recap to my guys immediately. I encourage my guys and the CEO to create chance to talk to each other directly. Because at the end of the day, they’re both normal human anyway.</li>
-				<li><strong>Responsibility</strong>: I don’t want any designers in my team will be managed by me. I want them to be the owner of the of their works. Their works will help the company just like mine. So why would i need to tell them what they have to do.</li>
+				<li><strong>Trust</strong>: Each team member should have trust on each other’s skill. Just like a sport team, people play in different positions and earn a total trust from their teammate for that position. Having trust, the feedbacks/ideas you received will be more correct and tend to be more collaborative. Being a leader, you have to constantly improve yourself so that you know what to talk to different position in your team. When divide the work, I make sure each designer will have 1 big project/feature to work on. So that they don’t feel left out and have a belief that they can do something big and important.</li>
+				<li><strong>Fairness</strong>: When trusting each others, it’s easier to play fair in the team. If Ben trusts me, whenever i give improvement-needed critique to his design, he will take it gratefully and send me back his argument more honest and constructive. Once Leo sees this positive thing from me & Ben, he and Ben will do the same. This dominos effect does work nicely once you have trust in your team.</li>
+				<li><strong>Transparency</strong>: The information my teammate knows should be similar to mine. Consider myself as a connection dot between company and its employees, usually after every leadership council meeting (yea, we call the leads meeting like that Anduin), i always write a short recap to my guys immediately. I encourage my guys and the CEO to create chance to talk to each other directly. I hate seeing a gap between people in the company just because the level they carring. At the end of the day, they’re both normal human anyway.</li>
+				<li><strong>Responsibility</strong>: I don’t want any designers in my team will be managed by me. I want them to be the owner of their works. Their works will help the company just like mine. So why would i need to tell them what they have to do, if i trust them already?</li>
 			</ul>
 			<p>You know it works when your teammate start doing the same things just like you do. I’m really happy to see my fellow designers carry on these values until today and it engages us very well.</p>
 
 			
 			<h4 className="font-bold mt-6">2.2 Processes will help, but keep them light</h4>
 
-			<p>I believe nobody likes processes, unless there’s no other way. Out of company processes when working with other teams.</p>
+			<p>I believe nobody likes processes, unless there’s no other way.</p>
 
-			<p>Here’re team processes that i really like:</p>
+			<p>Here’re design processes that i really like:</p>
 
 			<h5 className="font-bold mt-6">Weekly sync up</h5>
-			<p>To keep everyone in synced, we created a weekly sync up on each Friday. We’re thinking it’s a good chance for us to review the week and prepare better for a new week. This is not to mention in early of every week, we’re all packed with other meetings.</p>
+			<p>To keep everyone in synced, we created a weekly sync up on each Friday. We’re thinking it’s a good chance for us to review the week and prepare better for a new week. This is not to mention in early of every week, we’re all packed with other meetings. So we try to avoid that precious time slot.</p>
 			<p>Sometimes, in a sync up, i included a pre-registered share-out from team member, this can be anything from the book you like to the interesting website you found recently with cool animation. A chance to learn from each other.</p>
 			<Figure
 	      	desc="Snapshot of the sync up agenda"
@@ -115,13 +115,13 @@ export default () => (
       ></Figure>
 
       <Figure
-	      	desc="Sometime we do it over google meets if two members couldn’t make it to the office"
+	      	desc="Sometime we do it over google meet if members couldn’t make it to the office"
 	      	linkImg = {ImgSyncupTeam}
 	      	className = "p-4"
       ></Figure>
 
 			<h5 className="font-bold mt-6">Pair designers</h5>
-			<p>Described in the `Trust` section, when assigning 1 designer on 1 important feature/product, we found out that’s not enough. That designer need a buddy to constantly share/discuss about his work. Gathering all team members will be really time consuming for day to day work. Having a pair designer will also create a backup solution for the main designer when he’s not there. It’s likely to have 2 designers living with a feature rather than one. Assignment will be voluntary for both main and pair designers.</p>
+			<p>Described in the `Trust` section, 1 designer will have at least 1 important feature/product in his hand. We found out that’s not enough. That designer need a buddy to constantly share/discuss about his work. Gathering all team members will be really time consuming for day to day work. Having a pair designer will also create a backup solution for the main designer when he’s not there. It’s likely to have 2 designers living with a feature rather than one. Assignment will be voluntary for both main and pair designers.</p>
 
 			<Figure
 	      	desc="Example of our pair designers table. Thanks to Leo for helping me drawing this."
@@ -134,7 +134,7 @@ export default () => (
  
 			<p>With engagement, each of us always wants to improve ourselves, but work sometimes so pressure and having constrains. We initiate fun, small project to help us stay creative.</p>
 			<Figure
-			  	desc="Couple of shots for DailyUI Challenge. Available on my dribbble profile."
+			  	desc="Couple of shots for DailyUI Challenge. Also available in my dribbble profile."
 			  	linkImg = {ImgDailyUI}
 			  	className = "my-4 p-4"
 			></Figure>
@@ -178,12 +178,12 @@ export default () => (
 
 			<SectionTitle>2.4 Tribute back to community</SectionTitle>
 
-			<p>I’m seeing 2 main benefits from this:</p>
+			<p>I see 2 main benefits from this:</p>
 	    <ul className="list-disc ml-6 mt-2">
-	    	<li>Teaching people is a chance for you to review your knowledge</li>
-	    	<li>Growing new generations helps future community and talent pool</li>
+	    	<li>Teaching people is a chance to review your knowledge.</li>
+	    	<li>Growing new generations helps future community and talent pool.</li>
 	    </ul>
-			<p>And when i say tributing i really mean it, not just to attend to a design event and networking with people. And i want all of us doing this, not just me represent the team.</p>
+			<p>And when i say tributing i really mean it, not just to attend to a design event and network with people. I want all of my team to do this, not just me represent the team.</p>
 			<p>So we end up having something like:</p>
 			<div>
 
@@ -223,19 +223,19 @@ export default () => (
 			<h5 className="font-bold mt-4">One on One</h5>
 			<p>One on one (1-1) is a pretty popular driver nowadays between direct manager and employee. It’s also part of Anduin policy.</p>
 			<p>Here’s my way of doing it:</p>
-			<p>Within 3 weeks, i make sure i have enough one 1-1 session with each designer. This should happen outside the office during working hour, can be anywhere. It’s part of the work. I use this chance to understand individual designer more: to listen to their problem, that they hate but couldn’t say in a team and to coach them on what i think they can do better, shout out to what they did good. My goal after each 1-1 is that both of us feel motivated and happy to get back to work.</p>
+			<p>Within 3 weeks, i make sure i have one 1-1 session with each designer. This should happen outside the office during working hour, can be anywhere. It’s part of the work anyway. I use this chance to understand individual designer more: to listen to their problem, what they hate but couldn’t say in a team, to coach them on what i think they can do better, shout out to what they did good, to listen from your suggestion of how i can be better. My goal after each 1-1 is that both of us feel motivated and happy to get back to work.</p>
 			<p>There’s a time right after a 1-1, i have Duy wrote up a Sketch plugin similar to Content Generator to render our special data. Or, Ben sent out a quick design deliverables checklist. Really happy with this.</p>
 
 			<h5 className="font-bold mt-4">Also coach them out</h5>
 
 			<p>Thing doesn’t always work. Sometimes your day-to-day buddy can’t find motivation to keep up with the work. It’s time to let him go. Before doing that, i make sure i understand his problem from multiple perspective (including him), give him trials on performance plan. If things still don’t work out, we sit dow, talk and i motivate him with next career advices.</p>
-			<p>Having a selective hiring saves me here. It makes me understand what a person can capable of. If he’s under performed, usually it’s a good environment for him anymore. To me, coach people out will help them save their dignity and be better later on.</p>
+			<p>Having a selective hiring saves me here. It makes me understand what a current hire can capable of. If he’s under performed, usually it’s not a good environment for him anymore. To me, coaching people out will help them save their dignity and be better later on.</p>
 
 
 			<SectionTitle>Conclusions</SectionTitle>
 
 			<p>Over 4 year leading the product design team at Anduin, i’ve learnt a lot, done a lot. I have a solid, engaged and high-performance team always ready for any design challenge. I made it clear that i’m trying to lead them, not manage them. I earned their trust and respect.</p>
-			<p>My teammates can work as individual contributors or together as a team depends on the need. They’re also the owner of the team, the owner that can keep thinking on how to improve the team and provide honest feedbacks and contributions</p>
+			<p>My teammates can work as individual contributors or together as a team depends on the need. They’re also the owner of the team, the owner that can keep thinking on how to improve the team and provide honest feedbacks and contributions, even when i'm not there.</p>
 
 
   	</div>

@@ -43,7 +43,7 @@ export default () => (
 	    <p>The challenge with this platform is using hashtag (which was brand new at the time for non-twitter users) and in Vietnamese.</p>
 	    <p>Our first step to grow the network is to find an easy way for user to generate content and keep them there, interact with each other</p>
 
-	    <p>At the time you're reading this. Social network already went further a lot versus what i had back then. At that time, hastag is uncommon, Gif image is support limited.</p>
+	    <p>At the time you're reading this, social network already went further a lot versus what i had back then. At that time, hastag is uncommon, Gif image is limitedly supported.</p>
 
 	    <SectionTitle>Contributions</SectionTitle>
 	    <ul className="list-disc ml-6 mt-4">
@@ -150,8 +150,7 @@ export default () => (
 
 	  <div className="case-wrapper">
 			<SectionTitle>Conclusions</SectionTitle>
-
-			<p>This was a really project to work on. I had a chance to bring the fun to work seriously. The impression we've made on the users was really good. Unfortunately, the project didn't make it to the target the company wanted, otherwise it could have be different.</p>
+			<p>This was a really fun project to work on. I had a chance to bring the fun to work seriously. The impression we've made on the users was really good. Unfortunately, the project didn't make it to the target the company wanted, otherwise it could have be different.</p>
 		</div>	
     
 	</Layout>

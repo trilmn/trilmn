@@ -33,9 +33,9 @@ export default () => (
 
 	    <SectionTitle marginTop="mt-10">Introduction</SectionTitle>
 
-			<p>Joining from the start, as a solo designer in a brand new organization, you know the drill. You have to where multiple hats. Once you have more designers, you have to learn how to work with each other to create consistent output. I started seeing the need of a design system when our team has 3 members (me plus 2 other designers).</p>
+			<p>Joining from the start, as a solo designer in a brand new organization, you know the drill. You have to wear multiple hats. Once you have more designers, you have to learn how to work with each other to create consistent output. I started seeing the need of a design system when our team has 3 members (me plus 2 other designers).</p>
 
-			<p>Due to the urge of an early startup, things got messy pretty fast, we started having different perspective on spacing, font-size, primary colors, grayscale… countless debates about these. Nightmare also knocked in when we code our design (we didn’t have any front-end engineer back then), even with careful code review, we still end up having different hex code of a blue, different variant of a secondary button,… we even had different ways of naming css classes. We couldn’t move fast because of this.</p>
+			<p>Due to the urge of an early startup, things got messy really fast, we started having different perspectives on spacing, font-size, primary colors, grayscale… countless debates about these. Nightmare also knocked in when we code our design (we didn’t have any front-end engineer back then), even with careful code review, we still end up having different hex code of a blue, different variant of a secondary button,… we even had different ways of naming css classes. We couldn’t move faster because of this.</p>
 
 			<p>I told the guys: “Guys, this need to stop. Let’s build something we can together reuse and scale  as our product grows”. Suffered enough, they agreed. And we started discussing on what will be a good color scheme, what will be in our UI Kit, how to structure our CSS folder, how we naming thing…</p>
 		</div>
@@ -48,7 +48,7 @@ export default () => (
 		  	className = "mt-4"
 		  ></Figure>
 
-			<p>ACL1 was quite useful. With the Sketch file contains all the UI elements (yes, UI kit is a more common name) it helps us to work faster and more consistent. That's the main principle we had. Coding is now easier with naming convention and pre-defined classes for the same element we have on sketch. We wanted the element on web browser to look exactly like what we designed on Sketch. Pixel perfection syndrome, you name it.</p>
+			<p>ACL1 was quite useful. With the Sketch file contains all the UI elements (yes, UI kit is a more common name), it helps us to work faster and more consistent. That's the main principle we had. Coding is now easier with naming convention and pre-defined classes for the same element we have on sketch. We wanted the element on web browser to look exactly like what we designed on Sketch. Pixel perfection syndrome, you name it.</p>
 			<p>We were pretty proud of our work back then. Our engineers were quite impressed with our primitive front-end works.</p>
 		</div>
 
@@ -70,7 +70,7 @@ export default () => (
 		</div>
 
 		<div className="case-wrapper mt-12">
-			<p>Like all designers out there (except unicorns) we’re no coding experts. So i have to learn how to maintain the ACL in both design and code. We need to make sure every decision has the agreement from all designers, a single line of code is reviewed carefully. We wanted a high quality foundation.</p>
+			<p>Like all designers out there (except unicorns) we’re no coding experts. So i have to learn how to maintain the ACL in both design and code. We need to make sure every decision has the agreement from all members. A single line of code should be reviewed carefully. We wanted a high quality foundation.</p>
 			</div>
 			<div className="flex flex-wrap">
 			  <Figure
@@ -79,7 +79,7 @@ export default () => (
 			  	className = "w-1/3 p-4"
 			  ></Figure>
 			  <Figure
-			  	desc="My pre-released list"
+			  	desc="My pre-release list"
 			  	linkImg = {acl1ReleasePreparation}
 			  	className = "w-1/3 p-4"
 			  ></Figure>
@@ -160,12 +160,12 @@ export default () => (
 
 		<div className="case-wrapper">
 			<SectionTitle marginTop="mt-10">Conclusions</SectionTitle>	
-			<p>ACL2 carries the same purpose as ACL1, that is to be a single source of our we communicate our interface to users. What i learn form working on a design system were:</p>
+			<p>ACL2 carries the same purpose as ACL1, that is to be a single source of how we communicate our interface to users. What i learn form working on a design system were:</p>
 			<ul className="list-disc ml-5 mt-4">
-				<li>You should avoid to be trapped into the premature perfection. Live with it, keep tweaking it.</li>
+				<li>You should avoid to be trapped into the premature perfection. Live with the undone and keep tweaking it.</li>
 				<li>There's no done done when designing a design system.</li>
-				<li>The more you can make design:code a 1:1 map, the more you have better output. User will use end product anyway.</li>
-				<li>Documentation is a living things to. Make sure you can quickly update it.</li>
+				<li>The more you can make design:code a 1:1 map, the more you have better output. User will use the end product anyway.</li>
+				<li>Documentation is a living things too. Make sure you can quickly update it.</li>
 				<li>Keep observing for things that can be a symbol or component</li>
 			</ul>
 		</div>

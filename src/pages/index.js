@@ -19,7 +19,7 @@ const IndexPage = () => (
 		
 		<div className="desperating-callout m-4 p-4 mt-10 border rounded">
 			<h4 className="font-bold">I'm looking for a new opportunity</h4>
-	    <p className="mt-1">Assuming you don't know me so well, i hope through this website, you will know me better and it opens a chance for us to discuss about our next cooporation. <a href="mailto:tri@trilmn.com" className="underline hover:text-blue-400 transition-fast" title="Send me an email">Let's talk!</a></p>
+	    <p className="mt-1">Assuming you don't know me so well, i hope through this website, you will know me better and it opens a chance for us to discuss about our next cooperation. <a href="mailto:tri@trilmn.com" className="underline hover:text-blue-400 transition-fast" title="Send me an email">Let's talk!</a></p>
     </div>
     
     <SectionDivider>Recent work</SectionDivider>
@@ -29,7 +29,7 @@ const IndexPage = () => (
 				<div className="block avatar anduin bg-blue-400 w-12 h-12 flex items-center justify-center rounded mr-4 transition-fast"><img src={LogoAnduin} alt="Logo Anduin"/></div>
 				<div>
 					<h4 className="text-base font-bold uppercase flex items-center">Anduin Transactions</h4>
-					<span className="sub-text text-sm text-gray-600 mt-16">Jan 2015 - Jul 2019, 4.5 years, Product Design lead</span>
+					<span className="sub-text text-sm text-gray-600 mt-16">Jan 2015 - Jul 2019, 4.5 years, Product Design Lead</span>
 				</div>
 			</div>
 			<p className="mt-5">I joined Anduin as the 4th member, the 1st designer. Beside cracking tough problem of <a href="https://www.investopedia.com/terms/v/venturecapital.asp" target="_blank" className="underline hover:text-blue-400 transition-fast" title="Read more about Venture Capital">Venture Capital world</a> through making mockups & crafting UI on <a href="https://www.scala-js.org/" target="_blank"  className="underline hover:text-blue-400 transition-fast" title="Read more about Scalajs">Scalajs</a>, I also helped setting up design system, design processes and growing the design team to 5 members.

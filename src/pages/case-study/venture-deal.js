@@ -41,7 +41,7 @@ export default () => (
 
 			<p>Venture Capital world is a chaos realm when talking about workflow and efficiency. Venture Capital companies (VC) wants to invest in early stage startups. Early startups usually don’t know how to deal with investors, how to go through the process to receive an investment. Law firms appears as representatives for each side, this is not to mention that law firm people are not tech enthusiasts. There is also no standard on what is a good work.</p>
 
-			<p>Communication and collaborations between these parties are very scattered and non transparent. Common communication ways are emails, phone cals, spreadsheets. Online tools are available here and there but can only cover part of the process (like Virtual data room, File manager, Task management, E-signing tools, etc).</p>
+			<p>Communication and collaborations between these parties are very scattered and non transparent. Common communication ways are emails, phone calls, spreadsheets. Online tools are available here and there but can only cover part of the process (like Virtual data room, File manager, Task management, E-signing tools, etc).</p>
 
 			<p>Anduin’s ambitious mission is to create an all-in-one platform to streamline this process.</p>
 
@@ -56,7 +56,7 @@ export default () => (
 				<li>Coding UI on top of ScalaJs-React in the early days to make sure real product looks like what has been designed. Thus, attached to some engineering processes like: code review, making pull request, branching work...</li>
 			</ul>
 
-			<p className="mt-4">While it would be really long to talk about the platform and also the constrain of the NDA, below are breakdowns of what i heavily involved in:</p>
+			<p className="mt-4">While it would be really long to talk about the platform and also the NDA's constraint , below are breakdowns of what i heavily involved in:</p>
 		</div>
 
 		<div className="case-wrapper">
@@ -116,7 +116,7 @@ export default () => (
 
 		<div className="mb-4 flex flex-wrap">
       <Figure
-      	desc="A concept of form with analytics showing what's common and what's not on some datas."
+      	desc="A concept of form with analytics showing what's common and what's not on some data."
       	linkImg = {OntologyTermSheetGenerator}
       	className = "w-2/4 p-4"
       ></Figure>
@@ -145,7 +145,7 @@ export default () => (
 				<li>Find out actual problem of the current email template's design.</li>
 				<li>Define design principles for the new email template.</li>
 				<li>Wireframing them and get product agrees on.</li>
-				<li>Also design a new tenplate boilerplate with guideline to help engineers get their hands on faster.</li>
+				<li>Also design a new template boilerplate with guideline to help engineers get their hands on faster.</li>
 				<li>Make sure i won't miss any existing emails.</li>
 			</ul>
 		</div>
