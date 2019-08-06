@@ -71,7 +71,7 @@ const IndexPage = () => (
 				companyName="VNG Corporation"
 				companyLink="https://www.vng.com.vn/"
 			>
-				<Link to="/case-study/zini-vng" className="md:ml-6 text-gray-600 text-sm hover:bg-blue-500 border border-gray-400 hover:border-blue-500 hover:text-white py-1 px-4 rounded-full transition-fast inline-block">
+				<Link to="/case-study/zini-vng" className="md:ml-6 text-gray-600 text-sm hover:bg-blue-500 border border-gray-400 hover:border-blue-500 hover:text-white py-1 px-4 rounded-full transition-fast inline-block mt-2 md:mt-0">
 					See case study
 				</Link>
 			</PrevJobItem>
