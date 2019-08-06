@@ -14,13 +14,8 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Tri Nguyen - Product Designer" author=""/>
     <hgroup className="pt-4 mb-6 px-4">
-	    <h2 className="text-3xl font-light mt-2 leading-snug md:text-justify">Hi there! I'm a designer, coder who passionate about solving problem. I also like co-building great working culture and mentoring young designers. I've been doing this since 2009.</h2>
+	    <h2 className="text-3xl font-light mt-2 leading-snug">Hi there! I'm a designer, coder who passionate about solving problem. I also like co-building great working culture. Been doing this since 2009.</h2>
     </hgroup>
-		
-		<div className="desperating-callout m-4 p-4 mt-10 border rounded">
-			<h4 className="font-bold">I'm looking for a new opportunity</h4>
-	    <p className="mt-1">Assuming you don't know me so well, i hope through this website, you will know me better and it opens a chance for us to discuss about our next cooperation. <a href="mailto:tri@trilmn.com" className="underline hover:text-blue-400 transition-fast" title="Send me an email">Let's talk!</a></p>
-    </div>
     
     <SectionDivider>Recent work</SectionDivider>
 
@@ -32,9 +27,9 @@ const IndexPage = () => (
 					<span className="sub-text text-sm text-gray-600 mt-16">Jan 2015 - Jul 2019, 4.5 years, Product Design Lead</span>
 				</div>
 			</div>
-			<p className="mt-5">I joined Anduin as the 4th member, the 1st designer. Beside cracking tough problem of <a href="https://www.investopedia.com/terms/v/venturecapital.asp" target="_blank" className="underline hover:text-blue-400 transition-fast" title="Read more about Venture Capital">Venture Capital world</a> through making mockups & crafting UI on <a href="https://www.scala-js.org/" target="_blank"  className="underline hover:text-blue-400 transition-fast" title="Read more about Scalajs">Scalajs</a>, I also helped setting up design system, design processes and growing the design team to 5 members.
+			<p className="mt-5">I joined Anduin as the 4th member, the 1st designer. Beside cracking tough problem of <a href="https://www.investopedia.com/terms/v/venturecapital.asp" target="_blank" className="underline hover:text-blue-400 transition-fast" title="Read more about Venture Capital">Venture Capital</a> world through making mockups & crafting UI on <a href="https://www.scala-js.org/" target="_blank"  className="underline hover:text-blue-400 transition-fast" title="Read more about Scalajs">Scalajs</a>, I also helped setting up design system, design processes and growing the design team to 5 members.
 			</p>
-			<p className="mt-4">Check out my some of case studies below:</p>
+			<p className="mt-4">Check out some of my case studies below:</p>
 		</div>
 
 		{/* Links to case studies */}
