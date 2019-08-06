@@ -109,7 +109,7 @@ export default () => (
 				  ></Figure>
 				  <div  className="pt-2 text-center">
 				  	<p>Home page with onboarding</p>
-				  	<a href="https://trilmn.github.io/zini/welcome-04.html" target="_blank" className="bg-gray-700 text-sm hover:bg-blue-500 text-white py-1 px-4 rounded-full transition-fast mt-2 inline-block">View it live</a>
+				  	<a href="https://trilmn.github.io/zini/welcome-04.html" target="_blank" className="bg-gray-700 text-sm hover:bg-blue-500 text-white py-1 px-4 rounded-full transition-fast mt-2 inline-block">See live html</a>
 				  </div>
 			  </div>
 
@@ -120,7 +120,7 @@ export default () => (
 				  ></Figure>
 				  <div  className="pt-2 text-center">
 				  	<p>Ask me anything event</p>
-				  	<a href="https://trilmn.github.io/zini/campaign/ama.html" target="_blank" className="bg-gray-700 text-sm hover:bg-blue-500 text-white py-1 px-4 rounded-full transition-fast mt-2 inline-block">View it live</a>
+				  	<a href="https://trilmn.github.io/zini/campaign/ama.html" target="_blank" className="bg-gray-700 text-sm hover:bg-blue-500 text-white py-1 px-4 rounded-full transition-fast mt-2 inline-block">See live html</a>
 				  </div>
 			  </div>
 
@@ -131,7 +131,7 @@ export default () => (
 				  ></Figure>
 				  <div  className="pt-2 text-center">
 				  	<p>Landing page</p>
-				  	<a href="https://trilmn.github.io/zini/home-tourguide.html" target="_blank" className="bg-gray-700 text-sm hover:bg-blue-500 text-white py-1 px-4 rounded-full transition-fast mt-2 inline-block">View it live</a>
+				  	<a href="https://trilmn.github.io/zini/home-tourguide.html" target="_blank" className="bg-gray-700 text-sm hover:bg-blue-500 text-white py-1 px-4 rounded-full transition-fast mt-2 inline-block">See live html</a>
 				  </div>
 			  </div>
 
@@ -142,7 +142,7 @@ export default () => (
 				  ></Figure>
 				  <div  className="pt-2 text-center">
 				  	<p>Top users chart</p>
-				  	<a href="https://trilmn.github.io/zini/user-ranking.html" target="_blank" className="bg-gray-700 text-sm hover:bg-blue-500 text-white py-1 px-4 rounded-full transition-fast mt-2 inline-block">View it live</a>
+				  	<a href="https://trilmn.github.io/zini/user-ranking.html" target="_blank" className="bg-gray-700 text-sm hover:bg-blue-500 text-white py-1 px-4 rounded-full transition-fast mt-2 inline-block">See live html</a>
 				  </div>
 			  </div>
 			</div>
