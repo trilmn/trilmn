@@ -18,10 +18,10 @@ const Header = ({ siteTitle }) => (
         <a href="/tringuyen-cv.pdf" title="View my CV →" target="_blank" className="block transition-fast hover:opacity-50"><img src= "/icon/document.svg" alt="Icon Document" className=""/></a>
       </li>
       <li className="lg:mr-6 mr-4">
-        <a href="https://dribbble.com/minhtri247" title="View my dribbble shots →" target="_blank" className="block transition-fast hover:opacity-50"><img src= "/icon/dribbble.svg" alt="Icon Dribbble" className=""/></a>
+        <a href="https://dribbble.com/minhtri247" title="View my Dribbble →" target="_blank" className="block transition-fast hover:opacity-50"><img src= "/icon/dribbble.svg" alt="Icon Dribbble" className=""/></a>
       </li>
       <li className="lg:mr-6 mr-4">
-        <a href="https://github.com/trilmn" title="Go to my github profile →" target="_blank" className="block transition-fast hover:opacity-50"><img src= "/icon/github.svg" alt="Icon Github" className=""/></a>
+        <a href="https://github.com/trilmn" title="Go to my Github →" target="_blank" className="block transition-fast hover:opacity-50"><img src= "/icon/github.svg" alt="Icon Github" className=""/></a>
       </li>
       <li>
         <a href="https://www.linkedin.com/in/tringuyen247/" title="Go to my Linkedin →" target="_blank" className="block transition-fast hover:opacity-50"><img src= "/icon/linkedin.svg" alt="Icon Linked" className=""/></a>
