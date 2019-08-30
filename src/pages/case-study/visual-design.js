@@ -18,15 +18,19 @@ import tshirtRohan from "../../images/visual-design/tshirt-rohan.png"
 
 export default () => (
   <Layout>
-  	<SEO title="Communication Design - Tri Nguyen" author=""/>
-  	
+  	<SEO
+      title="Case study: Visual design - Tri Nguyen"
+      description="How i helped elevating Anduin's brand though visual design"
+      author=""
+      />
+
   	<div className="case-wrapper">
 	    <hgroup className="pt-2 mb-5">
 		    <h2>Visual Design</h2>
 		    <h3 className="text-xl">How i helped elevating Anduin's brand though visual design</h3>
 	    </hgroup>
 	    <Divider></Divider>
-			
+
 			<p>There’s a gap in communication design at Anduin during my time. The company didn't plan on hiring a Communication Designer, they were focusing more on building product.</p>
 
 			<p>However, when starting a brand new company, you will have tons of low hanging fruit to get done:</p>

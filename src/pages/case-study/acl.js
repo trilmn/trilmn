@@ -22,7 +22,11 @@ import acl2AnduinDesign from "../../images/acl/acl2-anduin.design.png"
 
 export default () => (
   <Layout>
-  	<SEO title="Case study: ACL - Tri Nguyen" author=""/>
+    <SEO
+      title="Case study: ACL - Tri Nguyen"
+      description="Design system for fast pace development at Anduin"
+      author=""
+    />
   	<div className="case-wrapper">
 	    <hgroup className="pt-2 mb-5">
 		    <h2>Anduin Component Library - ACL</h2>
@@ -159,7 +163,7 @@ export default () => (
 		</div>
 
 		<div className="case-wrapper">
-			<SectionTitle marginTop="mt-10">Conclusions</SectionTitle>	
+			<SectionTitle marginTop="mt-10">Conclusions</SectionTitle>
 			<p>ACL2 carries the same purpose as ACL1, that is to be a single source of how we communicate our interface to users. What i learn form working on a design system were:</p>
 			<ul className="list-disc ml-5 mt-4">
 				<li>You should avoid to be trapped into the premature perfection. Live with the undone and keep tweaking it.</li>
@@ -191,6 +195,6 @@ export default () => (
 				link="/case-study/design-leadership/"
 			></CaseItem>
 		</ul>
-		
+
 	</Layout>
 )

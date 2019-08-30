@@ -28,11 +28,15 @@ import GitHubConTrib from "../../images/tri-github-contribution-over-years.gif"
 
 export default () => (
   <Layout>
-  	<SEO title="Case Study: Venture Deal - Tri Nguyen" author=""/>
+  	<SEO
+      title="Case study: Venture Deal - Tri Nguyen"
+      description="Streamline transaction workflows in Venture Capital market"
+      author=""
+    />
   	<div className="case-wrapper">
 	    <hgroup className="pt-2 mb-5">
 		    <h2>Venture Deal</h2>
-		    <h3 className="text-xl">Streamline transaction workflow in Venture Capital markets</h3>
+		    <h3 className="text-xl">Streamline transaction workflows in Venture Capital market</h3>
 	    </hgroup>
 
 	    <Divider></Divider>
@@ -46,7 +50,7 @@ export default () => (
 			<p>Anduin’s ambitious mission is to create an all-in-one platform to streamline this process.</p>
 
 			<SectionTitle>My contributions</SectionTitle>
-			
+
 			<p>Over 4 years, i’ve involved in different aspects of the product, from ideation to iteration:</p>
 
 			<ul className="list-disc ml-6">
@@ -62,7 +66,7 @@ export default () => (
 		<div className="case-wrapper">
 			<SectionTitle>1. Negotiation module</SectionTitle>
 			<p>Negotiation module is one of the core features of the platform. Negotiation process is a crucial part of a deal where people will make sure everybody agrees on the same thing. Lots of legal document will be involved in this part. Negotiation module is created to help people in the deal know:</p>
-			
+
 			<ul className="list-disc ml-6 mt-4">
 				<li>What document is being discussed, to which version.</li>
 				<li>Which side needs to preview and provide a revised version.</li>
@@ -70,7 +74,7 @@ export default () => (
 				<li>Who has just signed and who’s turn to sign next.</li>
 				<li>…</li>
 			</ul>
-		</div>	
+		</div>
 
 		<div className="mb-4 flex flex-wrap">
       <Figure
@@ -140,7 +144,7 @@ export default () => (
 		<div className="case-wrapper">
 			<SectionTitle>3. Email templates revamp</SectionTitle>
 			<p>One of my other challenge at Anduin was to revamp and define scalable design solution for our email send out to users. Product team think the revamping was just a low-hanging fruit, but turns out it a ton of works. What i helped was:</p>
-			
+
 			<ul className="list-disc mt-4 ml-6">
 				<li>Find out actual problem of the current email template's design.</li>
 				<li>Define design principles for the new email template.</li>
@@ -177,7 +181,7 @@ export default () => (
 		<div className="case-wrapper">
 			<SectionTitle>What about coding?</SectionTitle>
 			<p>Below is my Github contributions to main codebase over the years:</p>
-		
+
 			<Figure
       	linkImg = {GitHubConTrib}
       	className = "mt-4"
@@ -185,7 +189,7 @@ export default () => (
 
       <p>Over the first two years. Design team coded almost UI on ScalaJs-React. Once we have enough engineers, we let them handle the work.</p>
 		</div>
-			
+
 		<div className="case-wrapper">
 			<SectionTitle>Conclusions</SectionTitle>
 			<p>Working in an early stage startup is a great experience. It keeps pushing me to stretch my limitation.</p>

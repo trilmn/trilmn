@@ -23,7 +23,11 @@ import ImgLiveBxh from "../../images/zini/livehtml-bxh.png"
 
 export default () => (
   <Layout>
-  	<SEO title="Case study: ACL - Tri Nguyen" author=""/>
+  	<SEO
+      title="Case study: Zini - Tri Nguyen"
+      description="A micro-blogging platform elevates using hashtag to viral content"
+      author=""
+    />
   	<div className="case-wrapper">
 	    <hgroup className="pt-2 mb-5">
 		    <h2>Zini</h2>
@@ -31,7 +35,7 @@ export default () => (
 	    </hgroup>
 
 	    <Divider></Divider>
-			
+
 			<Figure
 		  	desc="Detail page of a specific hashtag."
 		  	linkImg = {ImgHashtagDetails}
@@ -56,7 +60,7 @@ export default () => (
 		<div className="case-wrapper">
 			<SectionTitle>Screenshots from the project</SectionTitle>
 		</div>
-		
+
 			<Figure
 		  	desc="Landing page with latest content and multiple ways to login. Responsive!"
 		  	linkImg = {ImgLanding}
@@ -81,7 +85,7 @@ export default () => (
 			  ></Figure>
 			</div>
 
-			
+
 		<div className="case-wrapper">
 			<h4 className="font-bold text-xl">Guidelines</h4>
 		</div>
@@ -151,7 +155,7 @@ export default () => (
 	  <div className="case-wrapper">
 			<SectionTitle>Conclusions</SectionTitle>
 			<p>This was a really fun project to work on. I had a chance to bring the fun to work seriously. The impression we've made on the users was really good. Unfortunately, the project didn't make it to the target the company wanted, otherwise it could have be different.</p>
-		</div>	
-    
+		</div>
+
 	</Layout>
 )

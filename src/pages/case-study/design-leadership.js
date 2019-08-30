@@ -30,7 +30,11 @@ import ImgCongCssgrid from "../../images/design-leadership/cong-cssgrid.jpg"
 
 export default () => (
   <Layout>
-  	<SEO title="Design Leadership - Tri Nguyen" author=""/>
+  	<SEO
+      title="Case study: Design Leadership - Tri Nguyen"
+      description="What i did as a design leader at Anduin"
+      author=""
+    />
   	<div className="case-wrapper">
 	    <hgroup className="pt-2 mb-5">
 		    <h2>Design Leadership</h2>
@@ -75,9 +79,9 @@ export default () => (
 
 			<SectionTitle>2. Manage & improve team performance</SectionTitle>
 			<p>Having a bunch of designers together doesn’t mean you will produce productive works right away. I had to think who can do what, who can help who (you as a leader will have to help everyone in your team including yourself already, of course), even who sit next to who so that they feel the most comfortable.</p>
-			
+
 			<p>Even from day one, they should feel like this is the workplace where they will do their best.</p>
-			
+
 			<div className="mb-4 flex flex-wrap justify-center">
 	      <Figure
 	      	desc="Part of a Getting Started document i pointed to every new hire when he joins."
@@ -85,7 +89,7 @@ export default () => (
 	      	className = "w-2/4 p-4"
 	      ></Figure>
       </div>
-			
+
 			<p>The ultimate goal is, over the time working in the team, they will learn something for themselves. The more they can learn, the better the team is, and they become better also.</p>
 
 			<h4 className="font-bold mt-6">2.1 Define team values helps nurturing team culture</h4>
@@ -98,7 +102,7 @@ export default () => (
 			</ul>
 			<p>You know it works when your teammate start doing the same things just like you do. I’m really happy to see my fellow designers carry on these values until today and it engages us very well.</p>
 
-			
+
 			<h4 className="font-bold mt-6">2.2 Processes will help, but keep them light</h4>
 
 			<p>I believe nobody likes processes, unless there’s no other way.</p>
@@ -131,7 +135,7 @@ export default () => (
 
 
 			<SectionTitle>2.3 Having fun is important</SectionTitle>
- 
+
 			<p>With engagement, each of us always wants to improve ourselves, but work sometimes so pressure and having constrains. We initiate fun, small project to help us stay creative.</p>
 			<Figure
 			  	desc="Couple of shots for DailyUI Challenge. Also available in my dribbble profile."
