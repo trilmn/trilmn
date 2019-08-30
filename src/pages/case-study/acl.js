@@ -100,7 +100,7 @@ export default () => (
 			<ul className="list-disc ml-6">
 				<li>Plan on the direction of the project: what will be in there, structure, hierarchy, colors,...</li>
 				<li>Set up working process for other team mate to join in: how to update the shared sketch file, how to do pull request and code review, keep tracking of issues on Github.</li>
-				<li>Thanks to <a href="https://dribbble.com/cong" className="underline hover:text-blue-400 transition-fast" title="See Cong's works on Dribbble">Cong Pham</a> for working mainly on the UI and listened to my ideas. Thanks to <a href="https://dribbble.com/LeohNguyen" className="underline hover:text-blue-400 transition-fast" title="See Leo's works on Dribbble">Leo</a> for building a great form component (whoever makes a design system for these form fields will understand how complicated they are).</li>
+				<li>Thanks to <a href="https://congp.github.io/" className="underline hover:text-blue-400 transition-fast" title="See Cong's works on Dribbble">Cong Pham</a> for working mainly on the UI and listened to my ideas. Thanks to <a href="https://dribbble.com/LeohNguyen" className="underline hover:text-blue-400 transition-fast" title="See Leo's works on Dribbble">Leo</a> for building a great form component (whoever makes a design system for these form fields will understand how complicated they are).</li>
 			</ul>
 		</div>
 
