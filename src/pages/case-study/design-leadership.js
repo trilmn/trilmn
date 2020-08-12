@@ -44,19 +44,19 @@ export default () => (
 	  </div>
 
     <div className="case-wrapper mt-10">
-    	<p>When working solo, it’s very easy to plan, to work, to evaluate, to make decision on everything. You know yourself and the work best. Working in a team, acting as a person in charge, you have to know strong and weak points of your teammates. You have to know what makes them happy and what’s not, what brings the most value out of their creative minds. Designer is a picky type of character.</p>
-    	<p>Anduin needed more design leadership back then, so i got promoted.</p>
-    	<p>My time at Anduin as a leader went through these organic steps:</p>
+    	<p>When working solo, it’s very easy to plan, to work, to evaluate, to make decision on everything. You know yourself and the work best. Working in a team, acting as a person in charge, you have to know strengths and weaknesses of your teammates. You have to know what makes them happy and what’s not, what brings the most value out of their creative minds. Designer is a picky type of character.</p>
+    	<p>Anduin needed more design leadership back then, so i took the challenge.</p>
+    	<p>My leadership at Anduin went through these organic steps:</p>
 			<ol className="list-decimal ml-6 mt-2">
 				<li><strong>Scale up the team</strong>: Recruit more designers to handle more work.</li>
-				<li><strong>Manage & improve team performance</strong>: Make the team works together at maximum productivity.</li>
-				<li><strong>Be a coach</strong>: engage and improve individuals.</li>
+				<li><strong>Manage & improve team performance</strong>: Maximize team's productivity.</li>
+				<li><strong>Nurture talent</strong>: engage and improve individuals.</li>
 			</ol>
 
 			<SectionTitle marginTop="mt-10">1. Scale up the team</SectionTitle>
-			<p>Company grows, work is multiplied. More works mean more team mate you’re gonna need. Switching from a solo designer, i have to plan on how to recruit new designers. This includes:</p>
+			<p>Company grows, work is multiplied. More works mean more teammate you’re gonna need. Switching from a solo designer, i have to plan on how to recruit new designers. This includes:</p>
 			<ul className="list-disc ml-6 mt-2">
-				<li>Prepare job description so that the new guys know what they will believe in. JD will also include company missions and team values.
+				<li>Prepare job description so that new guys know why they should join the team.
 						<div className="mb-4 flex flex-wrap">
 				      <Figure
 				      	desc="Sample of a job description i wrote on the early days"
@@ -72,8 +72,8 @@ export default () => (
 				    </div>
 
 				</li>
-				<li>How to evaluate a candidate together is also important. When to say no, red flags,…For example: one of our big red flag is not being able to talk/describe deeply about your previous works. Thanks to <ExternalLink href="https://recruiterbox.com/" title="Visit RecruiterBox's website">RecruiterBox</ExternalLink> for making this process easier for interviewers. We put our evaluations on RecruiterBox before gathering altogether into a room and discuss about a candidate.</li>
-				<li>With a limited pool of designers in Vietnam, it's a bit challenge to find qualified candidates. Most of them i have to do casual chat at a coffee shop 1 or 2 times before they agree to step into an interview.</li>
+				<li>Evaluating candidate together is important. When to say no, what are red flags,…For example: one of our big red flag is not being able to talk/describe deeply about your previous works - This means your hand didn't get dirty enough. Thanks to <ExternalLink href="https://recruiterbox.com/" title="Visit RecruiterBox's website">RecruiterBox</ExternalLink> for making this process easier for interviewers. We put our evaluations on RecruiterBox before gathering altogether into a room and discuss about a candidate.</li>
+				<li>With a limited pool of designers in Vietnam, it's a bit challenging to find qualified candidates.</li>
 			</ul>
 			<p>Hiring was never be an easy work, it takes practices to be better. Luckily, all interviews went quite well so far that even if interviewees did not pass, some of them all came back and said thanks to me specifically for being clear and nice to them.</p>
 
@@ -125,10 +125,10 @@ export default () => (
       ></Figure>
 
 			<h5 className="font-bold mt-6">Pair designers</h5>
-			<p>Described in the `Trust` section, 1 designer will have at least 1 important feature/product in his hand. We found out that’s not enough. That designer need a buddy to constantly share/discuss about his work. Gathering all team members will be really time consuming for day to day work. Having a pair designer will also create a backup solution for the main designer when he’s not there. It’s likely to have 2 designers living with a feature rather than one. Assignment will be voluntary for both main and pair designers.</p>
+			<p>Described in the `Trust` section, 1 designer will have at least 1 important feature/product in his hand. We found out that’s not enough. That designer need a buddy to constantly share/discuss about his work. Gathering all team members will be really time consuming for day to day work. Having a pair will also add a backup solution for the main designer when he’s not around. It’s likely to have 2 designers (sometime 3) working with a feature rather than solo. Pair assignment will be discussed among teammates.</p>
 
 			<Figure
-	      	desc="Example of our pair designers table. Thanks to Leo for helping me drawing this."
+	      	desc="Example of our pairs table. Thanks to Leo for helping me drawing this."
 	      	linkImg = {ImgPairDesigners}
 	      	className = "my-6"
       ></Figure>
@@ -209,7 +209,8 @@ export default () => (
 			  	></Figure>
 				  <div  className="w-2/3 pl-4 pt-2">
 				  	<div>Me hosted an AMA about product design on Ereka, a quora-like platform.</div>
-				  	<ExternalLink href="https://ereka.vn/session/29872515416495116" title="Visit my AMA">Link here</ExternalLink> - in Vietnamese, sorry
+				  	<span class="line-through">Link here-in Vietnamese, sorry</span>
+						<div>Updated (Aug 2020): This platform is down</div>
 				  </div>
 				</li>
 				<li className="flex flex-wrapper mt-5">
@@ -223,23 +224,30 @@ export default () => (
 				</li>
 			</ul>
 
-			<SectionTitle>3. Be a coach</SectionTitle>
+			<SectionTitle>3. Nurture talent</SectionTitle>
 			<h5 className="font-bold mt-4">One on One</h5>
 			<p>One on one (1-1) is a pretty popular driver nowadays between direct manager and employee. It’s also part of Anduin policy.</p>
 			<p>Here’s my way of doing it:</p>
-			<p>Within 3 weeks, i make sure i have one 1-1 session with each designer. This should happen outside the office during working hour, can be anywhere. It’s part of the work anyway. I use this chance to understand individual designer more: to listen to their problem, what they hate but couldn’t say in a team, to coach them on what i think they can do better, shout out to what they did good, to listen from your suggestion of how i can be better. My goal after each 1-1 is that both of us feel motivated and happy to get back to work.</p>
+			<p>Within 3 weeks, i make sure i have one 1-1 session with each designer. This should happen outside the office during working hour, can be anywhere. It’s part of the work anyway. I use this chance to understand individual designer more:</p>
+				 <ul className="list-disc ml-6">
+					  <li>to listen to their problem</li>
+						<li>what they hate but couldn’t speak out</li>
+						<li>to coach them on what i think they can do better</li>
+						<li>shout out to what they did good</li>
+						<li>to listen from your suggestion of how i can be better</li>
+				 </ul>
+			<p>My goal after each 1-1 is that both of us feel motivated and happy to get back to work.</p>
 			<p>There’s a time right after a 1-1, i have Duy wrote up a Sketch plugin similar to Content Generator to render our special data. Or, Ben sent out a quick design deliverables checklist. Really happy with this.</p>
 
-			<h5 className="font-bold mt-4">Also coach them out</h5>
+			<h5 className="font-bold mt-4">Let's not forget to coach them out</h5>
 
-			<p>Thing doesn’t always work. Sometimes your day-to-day buddy can’t find motivation to keep up with the work. It’s time to let him go. Before doing that, i make sure i understand his problem from multiple perspective (including him), give him trials on performance plan. If things still don’t work out, we sit dow, talk and i motivate him with next career advices.</p>
-			<p>Having a selective hiring saves me here. It makes me understand what a current hire can capable of. If he’s under performed, usually it’s not a good environment for him anymore. To me, coaching people out will help them save their dignity and be better later on.</p>
+			<p>Things do not always work. Sometimes your day-to-day buddy can’t find enough motivation to keep up with the work. It’s time to let him go. Before doing that, i make sure i understand his problem from multiple perspective (including his), give him trials on performance plan. If things still don’t work out, we sit dow, talk and i motivate him with next career advices.</p>
+			<p>Having a selective hiring saves me here. It makes me understand what a current hire can capable of. If he’s underperformed, usually it’s not a good environment for him anymore. To me, coaching people out will help them save their dignity and be better later on. This also reduce a burden on company side. Win-win</p>
 
+			<SectionTitle>Wrapping up</SectionTitle>
 
-			<SectionTitle>Conclusions</SectionTitle>
-
-			<p>Over 4 year leading the product design team at Anduin, i’ve learnt a lot, done a lot. I have a solid, engaged and high-performance team always ready for any design challenge. I made it clear that i’m trying to lead them, not manage them. I earned their trust and respect.</p>
-			<p>My teammates can work as individual contributors or together as a team depends on the need. They’re also the owner of the team, the owner that can keep thinking on how to improve the team and provide honest feedbacks and contributions, even when i'm not there.</p>
+			<p>Over 4 year leading product design at Anduin, i’ve learnt a lot, done a lot. I have a solid, engaged and high-performance team always ready for any design challenge. I've made it clear that i’m trying to lead them, not manage them. I've earned their trust and respect.</p>
+			<p>My teammates can work as individual contributors or together as a team depends on the need. They’re also the co-owners of the team and the work. The kind of owner that can keep thinking on how to improve the team and provide honest feedbacks and contributions, even when i'm not there.</p>
 
 
   	</div>
