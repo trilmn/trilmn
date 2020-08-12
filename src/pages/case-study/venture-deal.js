@@ -191,7 +191,7 @@ export default () => (
 		</div>
 
 		<div className="case-wrapper">
-			<SectionTitle>Conclusions</SectionTitle>
+			<SectionTitle>Wrapping up</SectionTitle>
 			<p>Working in an early stage startup is a great experience. It keeps pushing me to stretch my limitation.</p>
 			<p>I’ve learnt a lot over 4 years, from learning how complex the Venture world is, dealing with user feedback shortage, growing design team, creating design system, shipping my designs through iterations, balancing mvp with business need to design product landing page and even making namecard…</p>
 			<p>Sometimes wearing multiple hats is not bad, it helps you understand yourself better and know what you can do best. Every situation is a chance to learn.</p>

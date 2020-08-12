@@ -153,7 +153,7 @@ export default () => (
 		</div>
 
 	  <div className="case-wrapper">
-			<SectionTitle>Conclusions</SectionTitle>
+			<SectionTitle>Wrapping up</SectionTitle>
 			<p>This was a really fun project to work on. I had a chance to bring the fun to work seriously. The impression we've made on the users was really good. Unfortunately, the project didn't make it to the target the company wanted, otherwise it could have be different.</p>
 		</div>
 

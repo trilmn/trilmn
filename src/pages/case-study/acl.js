@@ -163,7 +163,7 @@ export default () => (
 		</div>
 
 		<div className="case-wrapper">
-			<SectionTitle marginTop="mt-10">Conclusions</SectionTitle>
+			<SectionTitle marginTop="mt-10">Wrapping up</SectionTitle>
 			<p>ACL2 carries the same purpose as ACL1, that is to be a single source of how we communicate our interface to users. What i learn form working on a design system were:</p>
 			<ul className="list-disc ml-5 mt-4">
 				<li>You should avoid to be trapped into the premature perfection. Live with the undone and keep tweaking it.</li>
