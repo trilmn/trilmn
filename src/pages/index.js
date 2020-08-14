@@ -30,7 +30,7 @@ const IndexPage = () => (
 					<span className="sub-text text-sm text-gray-600 mt-16">Aug 2019 - Present, Product Designer</span>
 				</div>
 			</div>
-			<p className="mt-5">Working remotedly with the whole team in SF, CA. Quaestor simplifies investor updates, facilitates collaboration, and enables founders to fully engage their network.</p>
+			<p className="mt-5">Work remotely with the team in San Francisco. Quaestor simplifies investor updates, facilitates collaboration, and enables founders to fully engage their network.</p>
 		</div>
 
 		<SectionDivider>Recent work</SectionDivider>
